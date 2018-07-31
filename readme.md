@@ -1,6 +1,6 @@
-# Project Title
+# Virtual-Hand 
 
-One Paragraph of project description goes here
+Program which records Mouse and Keyboard movements. Recorded movements can be played again.
 
 ## Getting Started
 
